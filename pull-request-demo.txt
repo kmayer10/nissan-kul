@@ -1,0 +1,14 @@
+add other users to your repository
+
+identify who will be 
+	Reviewer 
+	Developer for your Repository
+	
+Developer will clone the repository in his local
+
+Create new branch in local 
+
+make some change to the new branch
+
+then
+	ADD, COMMIT and PUSH newly created branch to the Remote
