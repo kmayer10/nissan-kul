@@ -12,3 +12,7 @@ make some change to the new branch
 
 then
 	ADD, COMMIT and PUSH newly created branch to the Remote
+	
+	
+	
+	working on SourceTree
